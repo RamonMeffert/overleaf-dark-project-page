@@ -1,3 +1,13 @@
+/* ==UserStyle==
+@name         Overleaf Dark Project Overview
+@namespace    github.com/RamonMeffert/overleaf-dark-project-page
+@description  Dark theme for the Overleaf project overview page
+@author       Ramon Meffert https://github.com/RamonMeffert
+@homepageURL  https://github.com/RamonMeffert/overleaf-dark-project-page
+@supportURL   https://github.com/RamonMeffert/overleaf-dark-project-page/issues
+@license      MIT
+==/UserStyle== */
+
 @-moz-document url("https://www.overleaf.com/project")
 {
     a {
